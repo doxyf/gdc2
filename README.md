@@ -6,7 +6,7 @@
 `npm i`
 
 # Setup
-Open `config.json` and set
+Open `index.js` and set
 - Your account's username
 - Your account's password
 - Your account's ID (You can get it at [GD BROWSER](https://gdbrowser.com/u/teamfox))
